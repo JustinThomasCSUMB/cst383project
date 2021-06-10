@@ -1,6 +1,8 @@
 # cst383project
 project for cst383
+
 Title: Stroke Prediction - CST383 Group Project
+
 Authors: Justin Thomas, Micahel Janes, Jordan Bienz
 
 The source data set is medical data collected from individual that indicate signs of stroke posibility along with basic characteristics.
