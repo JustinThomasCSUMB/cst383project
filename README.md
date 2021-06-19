@@ -50,4 +50,4 @@ The purpose of this project was to show that certain types of data were not need
 
 Github Link: https://github.com/JustinThomasCSUMB/cst383project
 
-Video Link: https://youtu.be/PG0-5Ep9bQk
+Video Link: https://youtu.be/Tn6ychPENyI
